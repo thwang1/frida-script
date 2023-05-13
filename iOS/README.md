@@ -15,6 +15,7 @@ hookMethod.js : 특정 메소드 후킹(변수값 확인 및 리턴값 조작)
 
 
 loadFileHook.js : jailbreak 탐지 우회(jailbreak 관련 파일 확인하여 우회)
+  > NSFileManager 클래스의 fileExistsAtPath 함수 후킹함
 
 
 
