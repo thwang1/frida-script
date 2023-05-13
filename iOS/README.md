@@ -19,6 +19,11 @@ loadFileHook.js : jailbreak 탐지 우회(jailbreak 관련 파일 확인하여 �
 
 
 
+jailbreak_bypass.js : jailbreak 탐지 우회
+  > libSystem.B.dylib 시스템 라이브러리의 stat64 및 stat 함수 후킹함
+
+
+
 printAllStrings.js : 모든 문자열 출력(stringWithUTF8String)
 
 
